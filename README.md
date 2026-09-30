@@ -1,11 +1,10 @@
-# Vocalis — Executive AI Speech & Interview Intelligence (Shipaton 2026)
+# Vocalis — Executive AI Speech & Interview Intelligence
 
-[![RevenueCat Shipaton 2026](https://img.shields.io/badge/RevenueCat-Shipaton%202026-blue?style=for-the-badge&logo=revenuecat)](https://shipaton.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2-purple.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-M3-green.svg?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
 
-**Vocalis** is an executive-grade AI speech, viva, and high-stakes interview intelligence platform engineered for the **RevenueCat Shipaton 2026**. Designed with the precision and aesthetics of modern developer-first SaaS (Linear, Raycast, Stripe), Vocalis enables developers, founders, executives, and students to rehearse high-stakes conversations out loud — before facing the real challenge.
+**Vocalis** is an executive-grade AI speech, viva, and high-stakes interview intelligence platform. Designed with the precision and aesthetics of modern developer-first SaaS (Linear, Raycast, Stripe), Vocalis enables developers, founders, executives, and students to rehearse high-stakes conversations out loud — before facing the real challenge.
 
 ---
 
@@ -52,19 +51,6 @@ graph TD
     class D,F,H ai;
     class J db;
 ```
-
----
-
-## 🏆 RevenueCat Shipaton 2026 Award Alignments
-
-| Category | Award Potential | How Vocalis Competes & Wins |
-| :--- | :--- | :--- |
-| **Grand Prize** | **$100,000** | High-utility, voice-to-voice consumer product solving real psychological anxiety with measurable retention and growth loops. |
-| **Best Game Award** | **$20,000** | **Speech Blitz: Charisma Arena** — a fast-paced, real-world verbal agility game with countdown timers, real-time filler word penalty alarms, composure meters, XP leveling (Level 1 to 5), streaks, and 5 diverse game modes (No-Filler Gauntlet, Shark Tank Pitch, Crisis De-escalation, Impromptu Story, Awkward Silence Saver). |
-| **HAMM Award** (Help Apps Make More Money) | **$20,000** | Production-ready RevenueCat monetization engine: Annual Pro ($39.99/yr with 7-Day Free Trial, Save 52%), Monthly Pro ($6.99/mo), and Lifetime Founder Pass ($89.99); Judge Promo Codes; high-converting paywall UX. |
-| **Influencer Award — Career Coaching: Leadership Heather** | **$20,000** | Dedicated **Executive & Tech Giant Lab** with bespoke FAANG, YC pitch, and manager scenarios (defensive feedback, boundary setting with VPs, saying 'No' to scope creep, peer clashes) built to Heather's exact coaching rubric. |
-| **RevenueCat Design Award** | **$20,000** | Cyber Emerald & Imperial Solar Gold Carbon M3 dark theme (zero blue, luxury terminal aesthetic), 6-Axis Canvas Neural Radar, live Acoustic Studio, animated multi-harmonic wave visualizer, interactive Canvas score trajectory trend charts, and refined haptic feedback. |
-| **Next Gen Award** | **$20,000** | 100% open-source code repository with public MIT License, zero paid account restrictions, complete documentation, and free trial / promo codes for instant judge evaluation. |
 
 ---
 
@@ -128,7 +114,6 @@ graph TD
    - Free tier: 3 daily sessions, Standard and Supportive tones.
    - Pro tier: Unlimited daily sessions, Tough Mode unlocked, downloadable prep reports.
    - Offerings: Annual ($39.99/yr, 7-Day Free Trial), Monthly ($6.99/mo), Lifetime ($89.99).
-   - Judge Promo Code Access: Enter `SHIPATON2026` or `JUDGE2026` to unlock 100% of Pro features with zero payment.
 
 6. **Universal Inclusivity & Multi-Field Domain Hub (For Everyone, in Every Field)**:
    - **For Children & Students**: School science presentations, college thesis vivas, Model UN debate, and stage-fright confidence builders.
@@ -148,19 +133,6 @@ graph TD
    - High-aesthetic gold parchment credential with verified hologram seal and cryptographic SHA-256 audit hash.
    - Comprehensive 4-pillar diagnostic breakdown: Clarity, Gravitas, Structure, and Stress Resilience.
    - 1-tap **Share Verified Executive Dossier** system intent to export executive briefings directly to leadership, recruiters, or investors.
-
----
-
-## 🔑 Instructions for Hackathon Judges
-
-Per Section 4 of the official RevenueCat Shipaton rules (*"either a free trial in your app, or a promo code so judges can unlock the in-app purchase and test all premium features"*):
-
-1. Launch Vocalis.
-2. Tap the **Pro Upgrade** tab in the bottom navigation.
-3. In the **Shipaton Judge Promo Code** card:
-   - Enter `SHIPATON2026` (or `JUDGE2026` or `HEATHER2026`) and tap **Redeem**.
-4. The app will immediately grant **Vocalis Pro (1-Year Shipaton Judge Pass)** and activate all Tough Mode scenarios, Manager Lab simulations, and unlimited sessions!
-5. (Optional) Alternatively, tap **Start 7-Day Free Trial** to experience the standard customer onboarding flow.
 
 ---
 
@@ -255,12 +227,7 @@ service cloud.firestore {
 3. Tap **Start 7-Day Free Trial** or **Subscribe with RevenueCat**.
 4. **Expected Result**: The subscription activates immediately. The header banner updates to *"ACTIVE: 7-DAY FREE TRIAL"*, Tough Mode unlocks, and unlimited sessions are granted.
 
-### Walkthrough 5: Shipaton Judge Promo Code Redemption
-1. In the **Pro Upgrade** tab, scroll to **Shipaton Judge Promo Code**.
-2. Type `SHIPATON2026` and tap **Redeem**.
-3. **Expected Result**: A green success banner announces *"Code accepted! Unlocked: Shipaton Judge 1-Year VIP Pass"*. All paywalls disappear, granting unlimited access for competition evaluation.
-
-### Walkthrough 6: History Inspection & Trajectory Chart
+### Walkthrough 5: History Inspection & Trajectory Chart
 1. Tap the **History** tab.
 2. Observe the Canvas-rendered **Score Trajectory Line Chart** displaying progression across sessions.
 3. Tap on any past session card.
