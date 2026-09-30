@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Vocalis Acoustic Waveforms (Left & Right Flanks) in Cyber Emerald -->
+    <path
+        android:strokeColor="#00E599"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,45 A16,16 0 0,0 24,63" />
+    <path
+        android:strokeColor="#00E599"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M84,45 A16,16 0 0,1 84,63" />
+
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M18,39 A24,24 0 0,0 18,69" />
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M90,39 A24,24 0 0,1 90,69" />
+
+    <!-- Vocalis Monogram "V" / Precision Executive Crest in Cyber Emerald & Gold -->
+    <path
+        android:pathData="M32,32 L46,32 L54,64 L62,32 L76,32 L59,80 L49,80 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="32"
+                android:endX="76"
+                android:endY="80"
+                android:type="linear">
+                <item android:color="#00E599" android:offset="0.0" />
+                <item android:color="#10B981" android:offset="0.4" />
+                <item android:color="#059669" android:offset="0.8" />
+                <item android:color="#047857" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Inner Golden Speech Spark (Conviction Indicator in Imperial Solar Gold) -->
+    <path
+        android:pathData="M54,34 L56,42 L64,44 L56,46 L54,54 L52,46 L44,44 L52,42 Z"
+        android:fillColor="#FFB800" />
+
+    <!-- Center Titanium Spark Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 A2.5,2.5 0 1,0 54,47 A2.5,2.5 0 1,0 54,42" />
+
+</vector>

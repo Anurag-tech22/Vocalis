@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis",
+  "description": "Executive AI Speech, Viva & Interview Intelligence with real-time bio-telemetry, 6-axis neural radar, and RevenueCat monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
